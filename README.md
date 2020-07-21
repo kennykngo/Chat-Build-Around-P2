@@ -1,6 +1,6 @@
 # Pokemon Trading App
-Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI
-[![Run on Repl.it](https://repl.it/badge/github/bradtraversy/chatcord)](https://repl.it/github/bradtraversy/chatcord)
+A Pokemon trading card application that allows users to search, store, and chat with others users. The app includes websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI on the trade and chat pages. Other html pages are styled using the materiaize framework.
+
 ## Usage
 ```
 npm install
@@ -10,4 +10,4 @@ Go to localhost:3000
 ```
 
 ## Notes
-The *_html_css* folder is just a starter template to follow along with the tutorial at https://www.youtube.com/watch?v=jD7FnbI76Hg&t=1339s. It is not part of the app
+This repository was cloned from a different repo that allowed for the chat functionality to work successfully with our prior repository code. The initial repo can be found at https://github.com/Napolo-Sim/Project-2-Trading-Site . All prior commits have been saved in this repository, but the working application code is all within this new repository.
